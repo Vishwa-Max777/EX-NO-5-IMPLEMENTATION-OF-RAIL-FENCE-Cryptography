@@ -1,5 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-
+## NAME: D.Vishwa
+## REG NO: 2305001034
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
